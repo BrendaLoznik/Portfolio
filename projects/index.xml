@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Portfolio on Home</title>
+    <link>https://brendaloznik.github.io/portfolio/projects/</link>
+    <description>Recent content in Portfolio on Home</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 21 Dec 2020 10:58:08 -0400</lastBuildDate><atom:link href="https://brendaloznik.github.io/portfolio/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Adventure Works Sales Report in Power BI</title>
+      <link>https://brendaloznik.github.io/portfolio/projects/project6/</link>
+      <pubDate>Mon, 21 Dec 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://brendaloznik.github.io/portfolio/projects/project6/</guid>
+      <description>In preparation for my DA-100 exam, I retook the Power BI course from Maven Analytics on Udemy. Less than a year ago, I created a dynamic dashboard in Excel. In comparison to some of the formulas I wrote then to make the dashboard perform the way I needed it, I can say that Power BI and Dax are an absolute delight.
+For this project I
+ Created a Sales Report in Power BI giving detailed insights on best-selling products and customers Imported data from Excel and used Power Query to transform the data Created a data model in Power BI and used DAX to create calculated columns and measures Improved user experience by applying conditional formatting, drillthrough filters and visual interactions    Click here to view this project on GitHub.</description>
+    </item>
+    
+    <item>
+      <title>Exploring Breeding Bird Census Data</title>
+      <link>https://brendaloznik.github.io/portfolio/projects/project5/</link>
+      <pubDate>Sat, 24 Oct 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://brendaloznik.github.io/portfolio/projects/project5/</guid>
+      <description>CBS (Statistics Netherlands) provides reliable statistical information and data to provide insights into social issues. The 0DATA API allows users to consistently access this data.
+The Breeding bird dataset provides insights into the breeding trends of endemic species that regularly breed in The Netherlands. My goal was to use the CBS API to explore this dataset and determine which birds show the strongest positive and negative trend over the past 12 years.</description>
+    </item>
+    
+    <item>
+      <title>Bike Sharing Demand Prediction</title>
+      <link>https://brendaloznik.github.io/portfolio/projects/project4/</link>
+      <pubDate>Sun, 13 Sep 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://brendaloznik.github.io/portfolio/projects/project4/</guid>
+      <description>Bike sharing systems are a means of renting bicycles. The goal of the Bike Sharing Demand competition is to predict demand by combining historical usage patterns with weather data.
+For this project I
+ Explored the effect of features on the bike rental count using line and point plots Tested a variety of Regression models, including Linear regression, Ridge regression, Random forest regression, KNN and XGBoost Optimized the performance of the best performing models using GridSearch CV Used a voting ensemble on the optimized models to boost model performance resulting in a top 5% score    Click here to view this project on GitHub.</description>
+    </item>
+    
+    <item>
+      <title>Titanic Surival Prediction</title>
+      <link>https://brendaloznik.github.io/portfolio/projects/project3/</link>
+      <pubDate>Thu, 03 Sep 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://brendaloznik.github.io/portfolio/projects/project3/</guid>
+      <description>The Titanic competition is one of the most popular machine learning competitions on Kaggle. The goal is to predict the fate of the passengers onboard of this unsinkable ship.
+For this project I
+ Imputed missing values using groupby statement (e.g. replace missing fare by the median fare by class and title) Used regex to extract the title from the passenger name feature Cleaned the title feature further by correcting wrongly labeled titles and grouping rare titles together Identified passengers traveling together using their last name and ticket number Attempted (but failed) to identify the nationality of passengers by their last names Explored the relation between survival and several features using box plots and bar plots Optimized Random forest Classifier using GridSearch CV to obtain a top 9% model with 79.</description>
+    </item>
+    
+    <item>
+      <title> Ames House Price Prediction</title>
+      <link>https://brendaloznik.github.io/portfolio/projects/project2/</link>
+      <pubDate>Wed, 26 Aug 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://brendaloznik.github.io/portfolio/projects/project2/</guid>
+      <description>The Housing prices competition is with over 45.000 participating teams and individuals one of the most popular Machine Learning competition on Kaggle. The goal of this competition is to predict the sale price of residential homes in Ames (Iowa) using 79 explanatory variables.
+For this project I performed a variety of actions including:
+ Imputing missing data using Simple imputer, KNN imputer and Mice imputer Creating variety of new binary features, features representing the number of years since the house was last remoddeled and features indicating the proximity to the train station Exploring the effect of features on the sale price using scatter and bar plots Testing the difference of using log-transformed vs untransformed sale price on RMSE Optimizing Ridge regression using GridSearch CV to obtain a model with a top 9% score on the public Kaggle leaderboard    Click here to view this project on GitHub.</description>
+    </item>
+    
+    <item>
+      <title>Market Data Dashboard</title>
+      <link>https://brendaloznik.github.io/portfolio/projects/project1/</link>
+      <pubDate>Fri, 01 May 2020 11:00:59 -0400</pubDate>
+      
+      <guid>https://brendaloznik.github.io/portfolio/projects/project1/</guid>
+      <description>I am responsible for making market data available to the marketing and sales teams. I generally create a variety of pivot tables and use extensive conditional formatting and calculated fields to improve readability. I realized that some colleagues were struggling to find relevant information and to interpret tables correctly. I challenged myself to create a dashboard in Excel 365 to make it easier for my colleagues to draw conclusions from this dataset.</description>
+    </item>
+    
+  </channel>
+</rss>

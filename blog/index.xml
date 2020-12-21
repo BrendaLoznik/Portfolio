@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogs on Home</title>
+    <link>https://brendaloznik.github.io/portfolio/blog/</link>
+    <description>Recent content in Blogs on Home</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 16 Nov 2020 11:15:58 -0400</lastBuildDate><atom:link href="https://brendaloznik.github.io/portfolio/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>I passed my AZ-900 exam!</title>
+      <link>https://brendaloznik.github.io/portfolio/blog/blog4/</link>
+      <pubDate>Mon, 16 Nov 2020 11:15:58 -0400</pubDate>
+      
+      <guid>https://brendaloznik.github.io/portfolio/blog/blog4/</guid>
+      <description>Knowing about the ins and outs of the cloud is pretty useful when you are a data scientist. During the Microsoft Azure ertified Data &amp;amp; AI track of the Techonista Academy I will take 4 Microsoft exams and today I passed my first, the AZ-900 Azure Fundamentals, with flying colors.
+This exam covers topics ranging from different cloud concepts, core Azure services and management tools to security features, compliance and privacy.</description>
+    </item>
+    
+    <item>
+      <title>Getting started with Google Colab</title>
+      <link>https://brendaloznik.github.io/portfolio/blog/blog2/</link>
+      <pubDate>Mon, 05 Oct 2020 11:15:58 -0400</pubDate>
+      
+      <guid>https://brendaloznik.github.io/portfolio/blog/blog2/</guid>
+      <description>People have asked me what coding environment I use for my projects. I started out with Anaconda which conveniently installed Python, Jupyter Notebook and all common libraries I needed for my projects. However, I found the process of installing new libraries quite complicated. I also ran into problems when I installed a version of Tensorflow that was not compatible with my version of Pandas. Even with the help of the Stackoverflow community this was a problem that I found hard to solve.</description>
+    </item>
+    
+    <item>
+      <title>My first Kaggle competition</title>
+      <link>https://brendaloznik.github.io/portfolio/blog/blog1/</link>
+      <pubDate>Tue, 01 Sep 2020 11:15:58 -0400</pubDate>
+      
+      <guid>https://brendaloznik.github.io/portfolio/blog/blog1/</guid>
+      <description>I started my first machine learning course on Udemy in May 2020. I quickly realized two things. First, for me simply following along with these courses is not the best way to learn because it doesn’t challenge me to think about a solution myself. And secondly, I was missing some basic knowledge on how to get started with a project. I mean, it is great to know how to perform a regression analysis, but preparing your data is a huge part of data science and this topic is not always covered in these courses.</description>
+    </item>
+    
+  </channel>
+</rss>
